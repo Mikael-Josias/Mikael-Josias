@@ -1,7 +1,7 @@
 ### Olá! Eu sou Mikael Josias 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando no curso ONE da Oracle
+- 🌱 Fazendo curso de Desenvolvimento Full-Stack na Driven
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
