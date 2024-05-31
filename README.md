@@ -1,8 +1,6 @@
 ### Olá! Eu sou Mikael Josias 👋
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Fazendo curso de Desenvolvimento Full-Stack na Driven
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/Mikael-Josias">
