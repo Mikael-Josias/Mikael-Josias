@@ -1,4 +1,4 @@
-<h1 align="center">I'm Mikael Josias 🌐</h1>
+<h1 align="center">Olá! Sou o Mikael Josias 🌐</h1>
 <div align="center">
   <p>📚 Estudante de <b>Engenharia da Computação</b> na Univesp.</p>
   <p>💻 <b>Programador Full-Stack</b></p>
